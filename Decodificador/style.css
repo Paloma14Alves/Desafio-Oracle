@@ -5,7 +5,8 @@
 }
 
 body {
-  background-image: url("../Decodificador/crp.jpg");
+  background: rgb(0,0,0);
+  background: linear-gradient(90deg, rgba(0,0,0,1) 10%, rgba(121,9,92,1) 55%, rgba(0,212,255,1) 100%);
   font-family: 'Volkhov', serif;
 }
 
